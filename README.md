@@ -1,6 +1,6 @@
 # Privacy Policy — Smart Health Monitor
 
-**Last updated:** 15-07-26
+**Last updated:** July 15, 2026
 
 This Privacy Policy explains how Smart Health Monitor collects, uses, stores, and shares information when you use the App. Smart Health Monitor is a healthcare-monitoring app that connects patients, caretakers, and doctors, and integrates with a wearable/bedside ESP32 sensor device.
 
@@ -78,7 +78,7 @@ Data in transit is encrypted (HTTPS/TLS). Access to your data is restricted by F
 
 ## 8. Children's privacy
 
-Smart Health Monitor is not directed at children under 13, and we do not knowingly collect data from children.
+Smart Health Monitor is not directed at children under 13 (or the minimum age defined by your local law), and we do not knowingly collect data from children.
 
 ## 9. Your rights
 
@@ -90,8 +90,13 @@ We may update this policy from time to time. Material changes will be reflected 
 
 ## 11. Contact us
 
-[Ahmed Waseem]
-[ahmedwaseemsps@gmail.com]
+Smart Health Monitor is developed and maintained by:
+
+- Abubakar Abbasi — bcs223049@cust.pk
+- Shaheer Samad Waien — bcs223065@cust.pk
+- Chaudhary Ahmed Waseem — bcs223211@cust.pk
+
+For any privacy questions, data access/deletion requests, or concerns about how your information is handled, please reach out to any of the above.
 
 ---
 
